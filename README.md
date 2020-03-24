@@ -1,28 +1,21 @@
-# World::Population::Cli
+# World Population Cli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/world/population/cli`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is a population gem for displaying data about world population.
+some features: latest world wide population, top 20 countries, population by region,
+median age(in top 20 countries), births today(world wide), died today(world wide),
+population growth this year, and a hidden feature to type in a capitalized name with a bang
+in main menu to get information.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Fork it for your copy.
+Clone this repo to your local machine  
 
-```ruby
-gem 'world-population-cli'
-```
 
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install world-population-cli
 
 ## Usage
 
-TODO: Write usage instructions here
+run "ruby bin/population" and follow instructions
 
 ## Development
 
