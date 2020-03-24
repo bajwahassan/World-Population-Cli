@@ -8,10 +8,8 @@ in main menu to get information.
 
 ## Installation
 
-Fork it for your copy.
-Clone this repo to your local machine  
-
-
+Clone this repo to your local machine by:
+git clone https://github.com/hbajwaa/World-Population-Cli.git
 
 ## Usage
 
