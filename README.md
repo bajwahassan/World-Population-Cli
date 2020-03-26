@@ -1,10 +1,7 @@
 # World Population Cli
 
-This is a population gem for displaying data about world population.
-some features: latest world wide population, top 20 countries, population by region,
-median age(in top 20 countries), births today(world wide), died today(world wide),
-population growth this year, and a hidden feature to type in a capitalized name with a bang
-in main menu to get information.
+This is a World Population Cli gem for displaying data about world population.
+
 
 ## Installation
 
