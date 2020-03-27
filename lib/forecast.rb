@@ -1,5 +1,4 @@
-class HistoricalTrends
-
+class Forecast
   attr_accessor :year, :world_population, :yearly_change, :net_change, :density,
   :urban_population, :urban_population_percent, :all
   @@all = []
