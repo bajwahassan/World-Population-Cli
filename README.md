@@ -4,7 +4,6 @@ This is a World Population Cli gem for displaying data about world population.
 
 
 ## Installation
-also install the required gems.
 
 Clone this repo to your local machine by:
 git clone https://github.com/hbajwaa/World-Population-Cli.git
