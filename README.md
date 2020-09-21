@@ -12,6 +12,10 @@ git clone https://github.com/hbajwaa/World-Population-Cli.git
 
 cd to bin, then run command "ruby world-population" and follow instructions
 
+## Blog
+
+https://hbajwaa.github.io/cli_project
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
